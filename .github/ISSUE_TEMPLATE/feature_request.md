@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Request feature to implement in this project
-title: ""
-labels: 'Type: Enhancement'
+title: ''
+labels: ''
 assignees: ''
 
 ---

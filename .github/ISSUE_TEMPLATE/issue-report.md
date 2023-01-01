@@ -1,7 +1,9 @@
 ---
 name: Issue report
 about: Create a report to help us to improve the project
-labels: 'Type: Bug'
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
